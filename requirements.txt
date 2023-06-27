@@ -1,0 +1,6 @@
+telebot
+git+https://github.com/dsdanielpark/Bard-API.git
+flask
+pillow 
+openai
+pymongo
