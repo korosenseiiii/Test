@@ -29,7 +29,7 @@ db = client.get_default_database()
 users_collection = db["users"]
 
 
-bot_token = "6292300109:AAHsRHtBZrTiuOMpZ-YEW_JF2psyMGWzSIA"  # Replace with your Telegram bot token
+bot_token = "6179975944:AAEgrJwmzF0urBQOMYOVhGyosAFGoGYTc14"  # Replace with your Telegram bot token
 
 token = 'XQhF5_DT2aLBsn9ezvV6EtEo8tzz0vqZLWK6CRpvcJUGXc3rlPh2HVYFerCUqf8BlMoHMw.'  # Retrieve Bard API token from environment variable
 
